@@ -3,3 +3,5 @@ User stories and acceptance criteria of Uber-like app
 
 * As a user on budget, I want to find a lowest tier car, so that I can save money.
   * Given a nearest parterners list interface, when user choose to prefer cheapest option, then make the sorting mainly driven by lowest tier fist.
+* As a user, I want take a rest without any social and talk.
+  * Option on trip or user: No Social Trip.
